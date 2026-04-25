@@ -1,0 +1,11 @@
+# Ignorar la carpeta del dataset MovieLens 20M
+ml-20m/
+
+# Ignorar los archivos comprimidos y checksums del dataset
+ml-20m.zip
+ml-20m.zip.md5
+
+# Ignorar otros archivos de datos por seguridad (opcional)
+*.csv
+*.parquet
+*.json
